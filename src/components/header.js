@@ -1,13 +1,14 @@
 import React, { Fragment } from 'react';
 import Container from 'react-bootstrap/Container';
 import Logo from '../public/images/fb_logo.svg';
+import Navbar from 'react-bootstrap/Navbar';
 
 function Header() {
 
     return (
         <Fragment>
             <div className="header-border"></div>
-            <Container style={{padding: '21px 0 19px 0'}}>
+            <Container className="header">
                 <div className="header-logo"></div>
             </Container>
         </Fragment>
