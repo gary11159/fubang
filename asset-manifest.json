@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/fubang/static/css/main.4377a1ba.chunk.css",
+    "main.js": "/fubang/static/js/main.8e063e18.chunk.js",
+    "main.js.map": "/fubang/static/js/main.8e063e18.chunk.js.map",
+    "runtime-main.js": "/fubang/static/js/runtime-main.4da93ac9.js",
+    "runtime-main.js.map": "/fubang/static/js/runtime-main.4da93ac9.js.map",
+    "static/css/2.11829350.chunk.css": "/fubang/static/css/2.11829350.chunk.css",
+    "static/js/2.8b03234f.chunk.js": "/fubang/static/js/2.8b03234f.chunk.js",
+    "static/js/2.8b03234f.chunk.js.map": "/fubang/static/js/2.8b03234f.chunk.js.map",
+    "index.html": "/fubang/index.html",
+    "precache-manifest.3b4dbde762f5ee321662a873bca618f5.js": "/fubang/precache-manifest.3b4dbde762f5ee321662a873bca618f5.js",
+    "service-worker.js": "/fubang/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/fubang/static/css/2.11829350.chunk.css.map",
+    "static/css/main.4377a1ba.chunk.css.map": "/fubang/static/css/main.4377a1ba.chunk.css.map",
+    "static/js/2.8b03234f.chunk.js.LICENSE.txt": "/fubang/static/js/2.8b03234f.chunk.js.LICENSE.txt",
+    "static/media/banner.svg": "/fubang/static/media/banner.72b4544f.svg",
+    "static/media/fb_logo.svg": "/fubang/static/media/fb_logo.919eb0b7.svg",
+    "static/media/App.css": "/fubang/static/media/white_menu_02.8349f384.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da93ac9.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.8b03234f.chunk.js",
+    "static/css/main.4377a1ba.chunk.css",
+    "static/js/main.8e063e18.chunk.js"
+  ]
+}
