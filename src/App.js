@@ -3,15 +3,18 @@ import './App.css';
 import Header from './components/header';
 import Footer from './components/footer';
 import Body from './components/body';
+import ScrollToTop from './components/scrollToTop';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Button from 'react-bootstrap/Button';
 
 function App() {
+  const [device, setDevice] = React.useState(false);
+
   return (
     <Fragment>
-      <Header/>
-      <Body/>
-      <Footer/>
+      <Header />
+      <Body setDevice={(e) => setDevice(e)}/>
+      <Footer device={device}/>
+      <ScrollToTop/>
     </Fragment>
   );
 }

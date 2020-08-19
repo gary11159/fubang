@@ -1,15 +1,25 @@
 import React, { Fragment } from 'react';
 import Container from 'react-bootstrap/Container';
-import Logo from '../public/images/fb_logo.svg';
-import Navbar from 'react-bootstrap/Navbar';
+import $ from 'jquery';
 
 function Header() {
-
+    React.useEffect(() => {
+        window.addEventListener('scroll', function () {
+            let scrollPosition = window.pageYOffset;
+            if (scrollPosition > 100) {
+                $('#header').addClass('fixed');
+            } else {
+                $('#header').removeClass('fixed');
+            }
+        });
+    });
     return (
         <Fragment>
             <div className="header-border"></div>
-            <Container className="header">
-                <div className="header-logo"></div>
+            <Container id="header" className="header">
+                <Container>
+                    <div className="header-logo"></div>
+                </Container>
             </Container>
         </Fragment>
     );
