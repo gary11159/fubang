@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fubang/static/css/main.69d2b960.chunk.css",
-    "main.js": "/fubang/static/js/main.dbce0e10.chunk.js",
-    "main.js.map": "/fubang/static/js/main.dbce0e10.chunk.js.map",
+    "main.css": "/fubang/static/css/main.eb87c2b2.chunk.css",
+    "main.js": "/fubang/static/js/main.675cd7a6.chunk.js",
+    "main.js.map": "/fubang/static/js/main.675cd7a6.chunk.js.map",
     "runtime-main.js": "/fubang/static/js/runtime-main.4da93ac9.js",
     "runtime-main.js.map": "/fubang/static/js/runtime-main.4da93ac9.js.map",
     "static/css/2.11829350.chunk.css": "/fubang/static/css/2.11829350.chunk.css",
     "static/js/2.133b15d5.chunk.js": "/fubang/static/js/2.133b15d5.chunk.js",
     "static/js/2.133b15d5.chunk.js.map": "/fubang/static/js/2.133b15d5.chunk.js.map",
     "index.html": "/fubang/index.html",
-    "precache-manifest.d41c00f6eb9c529a9513b9cf5943116d.js": "/fubang/precache-manifest.d41c00f6eb9c529a9513b9cf5943116d.js",
+    "precache-manifest.001fea2e44101f09c9618b982cd24932.js": "/fubang/precache-manifest.001fea2e44101f09c9618b982cd24932.js",
     "service-worker.js": "/fubang/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/fubang/static/css/2.11829350.chunk.css.map",
-    "static/css/main.69d2b960.chunk.css.map": "/fubang/static/css/main.69d2b960.chunk.css.map",
+    "static/css/main.eb87c2b2.chunk.css.map": "/fubang/static/css/main.eb87c2b2.chunk.css.map",
     "static/js/2.133b15d5.chunk.js.LICENSE.txt": "/fubang/static/js/2.133b15d5.chunk.js.LICENSE.txt",
     "static/media/App.css": "/fubang/static/media/white_menu_02.8349f384.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4da93ac9.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.133b15d5.chunk.js",
-    "static/css/main.69d2b960.chunk.css",
-    "static/js/main.dbce0e10.chunk.js"
+    "static/css/main.eb87c2b2.chunk.css",
+    "static/js/main.675cd7a6.chunk.js"
   ]
 }
