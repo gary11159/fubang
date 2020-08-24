@@ -36,7 +36,10 @@ function Body(props) {
     return (
         <>
             {device !== 'mobile' ?
-                <img src={Banner}></img>
+                <div style={{position:'relative'}}>
+                    <div className="picText">線上交易操作手冊</div>
+                    <img src={Banner}></img>
+                </div>
                 : <img src={Banner_mobile}></img>
             }
             <div className="body">
